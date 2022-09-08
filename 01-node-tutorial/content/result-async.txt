@@ -1,0 +1,2 @@
+Hello i am created by async method. Believe it.
+Result: Hello this is first txt file Hello this is second txt file
